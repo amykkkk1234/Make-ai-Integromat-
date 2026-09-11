@@ -1,5 +1,8 @@
 # Make-ai-Integromat-
 
+this is an email automation process to attach qr codes in emails
+this can send emails to around 200 recipients in 10~15 minutes
+
 before the process, u need to prepare:
 1. one google sheet contains at least name, email, qr code string, qr code file path, and a trigger
 2. one google drive folder contrains all related qr code
@@ -9,7 +12,7 @@ process for attach 1 qr code and 1 reception map in an email
 
 1. link to google sheet, and set the condition to send emails 
 
-2. link to google drive dor dowanloading the qr code and reception location
+2. link to google drive dowanloading the qr code and reception location
 
 3. attach the qr code and map to the email (using html format would be better)
 
