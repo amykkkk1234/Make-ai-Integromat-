@@ -15,7 +15,11 @@ process for attach 1 qr code and 1 reception map in an email
 
 <img width="1315" height="206" alt="image" src="https://github.com/user-attachments/assets/02c428f6-71db-4eb2-9b64-6590816cdbeb" />
 process for attach 4 qr codes in an email
+
 first, link to google sheet, and set the condition to send emails
+
 then, use array aggregator to bind 4 qr codes to 1 recipient
+
 next, use iterator to download 4 qr codes at one time and bind them together by array aggregator
+
 last, attach 4 qr codes to the email
